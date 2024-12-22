@@ -1,0 +1,13 @@
+{
+  "name": "Blues Serial-Over-I2C Analyzer",
+  "apiVersion": "1.0.0",
+  "author": "Blues",
+  "version": "1.0.0",
+  "description": "A High Level Analyzer for the Blues Serial-Over-I2C protocol",
+  "extensions": {
+    "Serial-Over-I2C Protocol": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "BluesSerialOverI2CAnalyzer.Hla"
+    }
+  }
+}
